@@ -1,0 +1,26 @@
+{
+  "title": "Apache Spark",
+  "description": "Introduction to Apache Spark",
+  "courses": [
+    {
+      "course_id": "apache-spark-install",
+      "title": "Apache Spark Installation",
+      "description": ""
+    },
+    {
+      "course_id": "apache-spark-rdd",
+      "title": "Apache Spark Creating RDDs from Spark-Shell",
+      "description": ""
+    },
+    {
+      "course_id": "apache-spark-wordcount",
+      "title": "Apache Spark WordCount",
+      "description": ""
+    },
+    {
+      "course_id": "apache-spark-ui",
+      "title": "Apache Spark WebUI",
+      "description": ""
+    }
+  ]
+}
