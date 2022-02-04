@@ -8,6 +8,11 @@
       "description": ""
     },
     {
+      "course_id": "apache-spark-scala",
+      "title": "Apache Spark Scala",
+      "description": ""
+    },
+    {
       "course_id": "apache-spark-rdd",
       "title": "Apache Spark Creating RDDs from Spark-Shell",
       "description": ""
