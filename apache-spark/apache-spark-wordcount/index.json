@@ -1,0 +1,59 @@
+{
+  "title": "Apache Spark WordCount",
+  "description": "Introduction to Apache Spark",
+  "difficulty": "Advanced",
+  "time": "15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Prerequisites",
+        "text": "steps/step1.md"
+      },{
+        "title": "",
+        "text": "steps/step2.md"
+      },{
+        "title": "WordCount Example",
+        "text": "steps/step3.md"
+      },{
+        "title": "",
+        "text": "steps/step4.md"
+      },{
+        "title": "",
+        "text": "steps/step5.md"
+      },{
+        "title": "",
+        "text": "steps/step6.md"
+      },{
+        "title": "Spark Program – Performing Operations",
+        "text": "steps/step7.md"
+      },{
+        "title": "",
+        "text": "steps/step8.md"
+      },{
+        "title": "",
+        "text": "steps/step9.md"
+      },{
+        "title": "Run Program",
+        "text": "steps/step10.md"
+      },{
+        "title": "Spark Program – Saving Data",
+        "text": "steps/step11.md"
+      },{
+        "title": "Spark Program – Lineage Graph",
+        "text": "steps/step12.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
