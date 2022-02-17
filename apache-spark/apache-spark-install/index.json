@@ -33,9 +33,9 @@
     }
   },
   "environment": {
-    "uilayout": "vscode"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu2004"
+    "imageid": "ubuntu1804"
   }
 }
