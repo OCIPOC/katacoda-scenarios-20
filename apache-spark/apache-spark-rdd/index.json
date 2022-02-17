@@ -54,6 +54,6 @@
     "uilayout": "vscode"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "ubuntu1804"
   }
 }

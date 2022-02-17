@@ -8,7 +8,7 @@ Download URL : http://spark.apache.org/downloads.html
 
 Download the latest version of Spark
 
-`wget https://www.apache.org/dist/spark/spark-3.2.0/spark-3.2.0-bin-hadoop3.2.tgz`
+`wget https://www.apache.org/dist/spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz`
 
 After running the above command, your download should start. The download may take a while depending upon your internet connection.
 
