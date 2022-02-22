@@ -41,6 +41,6 @@
     "dashboards": [{"name": "Spark UI", "port": 4040}]
   },
   "backend": {
-    "imageid": "ubuntu1804"
+    "imageid": "ubuntu:2004"
   }
 }
