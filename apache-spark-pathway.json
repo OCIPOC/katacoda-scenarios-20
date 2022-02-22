@@ -23,6 +23,11 @@
       "description": ""
     },
     {
+      "course_id": "apache-spark-rdd-persistence",
+      "title": "Apache Spark RDD Caching and Persistence",
+      "description": ""
+    },
+    {
       "course_id": "apache-spark-wordcount",
       "title": "Apache Spark WordCount",
       "description": ""

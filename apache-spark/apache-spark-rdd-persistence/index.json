@@ -1,0 +1,53 @@
+{
+  "title": "Apache Spark RDD Caching and Persistence",
+  "description": "Introduction to Apache Spark",
+  "difficulty": "Advanced",
+  "time": "15 minutes",
+  "details": {
+    "steps": [{
+      "title": "RDD Caching and Persistence",
+      "text": "steps/step1.md"
+    },
+    {
+      "title": "Prerequisites",
+      "text": "steps/step2.md"
+    },    
+	{
+      "title": "RDD",
+      "text": "steps/step3.md"
+    },
+	{
+      "title": "RDD",
+      "text": "steps/step4.md"
+    },
+  {
+      "title": "",
+      "text": "steps/step5.md"
+    },
+    {
+        "title": "",
+        "text": "steps/step6.md"
+    },
+    {
+        "title": "Persist",
+        "text": "steps/step7.md"
+    },
+    {
+        "title": "Unpersist",
+        "text": "steps/step8.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode"
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
