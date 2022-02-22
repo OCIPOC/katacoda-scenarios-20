@@ -1,0 +1,65 @@
+{
+  "title": "Apache Spark Scala Advanced",
+  "description": "Introduction to Apache Spark",
+  "difficulty": "Advanced",
+  "time": "15 minutes",
+  "details": {
+    "steps": [{
+      "title": "Why Scala?",
+      "text": "steps/step1.md"
+    },
+    {
+      "title": "Install Prerequisites",
+      "text": "steps/step2.md"
+    },    
+	{
+      "title": "Pattern Matching",
+      "text": "steps/step3.md"
+    },
+	{
+      "title": "Functions",
+      "text": "steps/step4.md"
+    },
+  {
+      "title": "Functions",
+      "text": "steps/step5.md"
+    },
+    {
+        "title": "Higher Order Functions",
+        "text": "steps/step6.md"
+    },
+    {
+        "title": "Functions",
+        "text": "steps/step7.md"
+    },
+    {
+        "title": "Collections",
+        "text": "steps/step8.md"
+    },
+    {
+        "title": "Collections",
+        "text": "steps/step9.md"
+    },
+    {
+        "title": "Collections",
+        "text": "steps/step10.md"
+    },
+    {
+        "title": "Collections",
+        "text": "steps/step11.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode"
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
