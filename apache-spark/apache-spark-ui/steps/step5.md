@@ -2,10 +2,7 @@
 
 **Note:** You might need to get back to prompt by pressing `Enter`.
 
-```
-19/10/05 16:25:21 WARN HttpParser: bad HTTP parsed: 400 Illegal character 0x16 for HttpChannelOverHttp@3006dd4d{r=0,c=false,a=IDLE,uri=null}
-scala>
-```
+
 `val num = List(1, 2, 3, 4)` 
 
 `val numRDD = sc.parallelize(num)` 
@@ -17,3 +14,5 @@ Now let us write a map function which takes the numRDD and gives a squaredRDD as
 `squaredRDD.foreach(println)` 
 
 After you see the output in the console, navigate back to the browser and refresh the Spark web interface. You should see a completed job as shown in the screenshot below.
+
+![](https://github.com/dynbn/katacoda-scenarios/blob/main/apache-spark/apache-spark-ui/screenshots/spark-ui-dag.png?raw=true)
