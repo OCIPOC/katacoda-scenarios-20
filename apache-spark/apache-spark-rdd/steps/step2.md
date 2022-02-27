@@ -6,14 +6,6 @@ We need following packages to perform the lab exercise:
 #### JAVA
 Verify the installation with: `java -version` 
 
-You'll see the following output:
-
-```
-java version "1.8.0_201"
-Java(TM) SE Runtime Environment (build 1.8.0_201-b09)
-Java HotSpot(TM) 64-Bit Server VM (build 25.201-b09, mixed mode)
-```
-
 
 #### Install pyspark
 PySpark is available in pypi. To install just run `pip install pyspark` 
