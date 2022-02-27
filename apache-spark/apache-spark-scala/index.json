@@ -1,6 +1,6 @@
 {
   "title": "Apache Spark Scala",
-  "description": "Introduction to Apache Spark",
+  "description": "Introduction to Apache Spark Scala",
   "difficulty": "Advanced",
   "time": "15 minutes",
   "details": {
@@ -45,7 +45,7 @@
     }
   },
   "environment": {
-    "uilayout": "vscode"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu:2004"

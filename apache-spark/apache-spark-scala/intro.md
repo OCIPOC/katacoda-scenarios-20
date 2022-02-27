@@ -1,3 +1,3 @@
-# Apache Spark Installation
+# Apache Spark Scala
 
-In this lab exercise, you will learn how to create RDDs from spark-shell.
+In this lab exercise, you will learn Scala basics.
