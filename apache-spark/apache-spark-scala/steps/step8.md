@@ -1,10 +1,10 @@
 Step 2: There might be scenarios where you would want to modify a variable. For that you can create a variable using var keyword instead of the val keyword as shown below.
 
-var newName: String = "Opswerks"
+`var newName: String = "Opswerks"`
 
-newName = newName + " Academy"
+`newName = newName + " Academy"`
 
-println(newName)
+`println(newName)`
 
 ![](https://github.com/dynbn/katacoda-scenarios/blob/main/apache-spark/apache-spark-scala/screenshots/spark-scala-var.png?raw=true)
 
@@ -12,11 +12,11 @@ As you can see in the screenshot, we have concatenated a new string to the same 
 
 Step 3: We can apply a workaround to use transformations on immutable objects to create new immutable objects and achieve the same result as we got using the mutable objects.
 
-val name: String = "Opswerks"
+`val name: String = "Opswerks"`
 
-val newName: String = name + " Academy"
+`val newName: String = name + " Academy"`
 
-println(newName)
+`println(newName)`
 
 ![](https://github.com/dynbn/katacoda-scenarios/blob/main/apache-spark/apache-spark-scala/screenshots/spark-scala-val2.png?raw=true)
 
