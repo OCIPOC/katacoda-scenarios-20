@@ -2,6 +2,8 @@ However, if we want to use the various storage levels as explained above, we hav
 
 `data2.persist(StorageLevel.MEMORY_AND_DISK_SER)` 
 
+**Note:** You can only change the storage level once or persist reports an `UnsupportedOperationException`
+
 At this point of time, we have simply specified out storage level for persistence. The actual persistence happens when the action on the RDD is called.
 
 `data2.take(5)` 
