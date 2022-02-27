@@ -4,7 +4,7 @@ Run following commands to append the environment variable at the end of the file
 
 `echo "export SPARK_HOME=/usr/share/spark" >> ~/.bashrc`
 
-`echo "PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin" >> ~/.bashrc`
+`echo "export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin" >> ~/.bashrc`
 
 Now reload the modified .bashrc file using the following command.
 
