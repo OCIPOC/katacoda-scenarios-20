@@ -1,6 +1,6 @@
 Now that we have installed Java, we are ready to install Scala and start writing some Scala code!
 
-**Note:** Run the following command to install `wget`
+**Note:** Run the following command to install `wget` (in case you encounter "command not found" error)
 
 `apt-get install wget`
 
