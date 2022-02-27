@@ -1,4 +1,4 @@
-**Step 2:** Let us install Spark in Standalone mode. Navigate to the download URL below, select the latest stable version for Spark (i.e. Spark 3.2.0) and select the package type which is pre-built for Apache Hadoop 3.2 and later. After selecting click the link as shown in the screenshot below to download Spark.
+**Step 2:** Let us install Spark in Standalone mode. Navigate to the download URL below, select the latest stable version for Spark and select the package type which is pre-built for Apache Hadoop 3.2 and later. After selecting click the link as shown in the screenshot below to download Spark.
 
 Download URL : http://spark.apache.org/downloads.html
 
