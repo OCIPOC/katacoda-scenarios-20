@@ -3,4 +3,4 @@ RDD Caching and RDD Persistence play very important role in processing data with
 
 #### Clone Repository
 Clone the following repository by executing following command in the terminal.
-`git clone https://github.com/dynbn/apache-spark.git`
+`git clone https://github.com/dynbn/katacoda-scenarios.git`
