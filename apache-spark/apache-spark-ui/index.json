@@ -36,7 +36,7 @@
     }
   },
   "environment": {
-    "uilayout": "vscode",
+    "uilayout": "terminal",
     "showdashboard": true,
     "dashboards": [{"name": "Spark UI", "port": 4040}]
   },
