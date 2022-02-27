@@ -1,1 +1,1 @@
-You've completed your Lab Exercise!
+You've completed this lab exercise!
