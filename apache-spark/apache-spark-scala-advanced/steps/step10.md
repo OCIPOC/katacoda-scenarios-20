@@ -1,6 +1,6 @@
 **Step 2:** Let us now look at map collection. Let us first create a map of elements.
 
-`val couples = Map("Chandler" -> "Monica", "Ross" -> "Rachel", "Phoebe" -> "Mike")`{{execute}} 
+`val couples = Map("Chandler" -> "Monica", "Ross" -> "Rachel", "Phoebe" -> "Mike")` 
 
 Now that we have a map collection, let us try to access the value by the key.
 

@@ -4,7 +4,7 @@ In the scala console, enter the following code.
 
 ```def squared (num: Int) : Int = {
 num * num
-}```{{execute}} 
+}``` 
 
 You can call the function square to see if it works. For example,
 `squared(5)` 
