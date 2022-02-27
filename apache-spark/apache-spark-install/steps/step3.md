@@ -8,5 +8,3 @@ The file will start to untar to /usr/share directory as shown in the screenshot 
 `cd /usr/share`
 
 `ls sp*`
-
-As we can see from the screenshot above, the Spark directory is listed.
