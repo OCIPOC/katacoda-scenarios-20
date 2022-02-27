@@ -13,6 +13,8 @@ The filter function we used above is a higher order function which takes another
 
 ```def find(name: List[String]): Boolean = {
 	name.contains("Jim")
-	}``` 
+	}```
+
 Let's call the function with the parameter office which is a List of type String.
+
 `find(office)` 
