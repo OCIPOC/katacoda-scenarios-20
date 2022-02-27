@@ -28,11 +28,6 @@
       "description": ""
     },
     {
-      "course_id": "apache-spark-wordcount",
-      "title": "Apache Spark WordCount",
-      "description": ""
-    },
-    {
       "course_id": "apache-spark-ui",
       "title": "Apache Spark WebUI",
       "description": ""
