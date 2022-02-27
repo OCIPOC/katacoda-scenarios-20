@@ -1,6 +1,6 @@
 {
   "title": "Apache Spark",
-  "description": "Introduction to Apache Spark",
+  "description": "Apache Spark Exercises",
   "courses": [
     {
       "course_id": "apache-spark-install",
