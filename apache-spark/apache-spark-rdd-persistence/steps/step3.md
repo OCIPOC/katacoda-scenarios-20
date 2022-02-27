@@ -1,5 +1,5 @@
 Fire up the spark-shell from the terminal and create a list as shown below.
-`spark-shell`{
+`spark-shell`
 
 Let us understand this better with an example. The default behavior is that an RDD is computed every time an action is called on the RDD. Look at the following piece of code below.
 
