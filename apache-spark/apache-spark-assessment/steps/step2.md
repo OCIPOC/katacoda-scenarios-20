@@ -3,7 +3,7 @@
 
 **1.** Create a list of even numbers from 2 to 10 and create an RDD from that list.
 
-**2.** Write a map function which takes the previous RDD gives the square value for each value in the list
+**2.** Write a map function which takes the previous RDD and gives the square value for each element in the list. Print out the elements of the RDD using `foreach`
 
 **3.** Access the Spark UI and check each tab (add screenshots)
 

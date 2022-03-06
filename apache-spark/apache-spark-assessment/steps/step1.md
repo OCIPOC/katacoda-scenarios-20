@@ -9,14 +9,12 @@
 
 **4.** Write a Scala function `hello` to print “Hello Opswerks”
 
-**5.** Write a Scala function to get the character at the given index within a given string.
+**5.** Write a Scala function `square` to get the square value of a number. Call the function `square` and pass 8 as param and check the output.
 
-**6.** Write a Scala function `square` to get the square value of a number. Call the function `square` and pass 8 as param and check the output.
+**6.** Create a list `films` containing a list of your top 5 favorite movie titles.
 
-**7.** Create a list films containing a list of your top 5 favorite movie titles.
+**6a.** Print the list
 
-**7a.** Print the list
+**6b.** Access the list and print your 2nd top favorite movie
 
-**7b.** Access the list and print your 2nd top favorite movie
-
-**7c.** Use the map function to convert the list entries to lowercase
+**6c.** Use the map function to convert the list entries to lowercase
