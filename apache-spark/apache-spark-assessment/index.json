@@ -1,0 +1,31 @@
+{
+  "title": "Apache Spark Assessment",
+  "description": "",
+  "difficulty": "Advanced",
+  "time": "30 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Part I",
+        "text": "steps/step1.md"
+      },{
+        "title": "Part II",
+        "text": "steps/step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "showdashboard": true,
+    "dashboards": [{"name": "Spark UI", "port": 4040}]
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
